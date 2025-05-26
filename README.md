@@ -1,2 +1,3 @@
 # horus
-Horus Teleprompter
+
+Horus Teleprompter for Musician
