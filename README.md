@@ -1,3 +1,3 @@
 # horus
 
-Horus Teleprompter for Musician
+POC - Horus Teleprompter for Musician
